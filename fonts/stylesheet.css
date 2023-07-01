@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'A.C.M.E';
+    src: url('ACMEBold.woff2') format('woff2'),
+        url('ACMEBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
